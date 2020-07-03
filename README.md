@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a senior data scientist at J.P. Morgan Chase who focuses on algorithmic fairness, model explainability, and responsible AI. 
+
 <!--
 **LeJit/LeJit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
