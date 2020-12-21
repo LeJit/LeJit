@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior data scientist at J.P. Morgan Chase who focuses on algorithmic fairness, model explainability, and responsible AI. 
+I am a senior data scientist at Microsoft Research who focuses on algorithmic fairness and responsible AI. A key part of my role is maintaing and developing the FairLearn Python package. Previously, I was at J.P. Morgan Chase where I worked on explainable AI for finance.
 
 <!--
 **LeJit/LeJit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
