@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior data scientist at Microsoft Research who focuses on algorithmic fairness and responsible AI. A key part of my role is developing the [Fairlearn](https://github.com/fairlearn/fairlearn) Python package. Previously, I was at J.P. Morgan Chase where I worked on explainable AI for finance.
+I am a senior data scientist at Spotify where I work on the Algorithmic Impact team under Trust & Safety. I was a senior data scientist at Microsoft Research where I worked on the [Fairlearn](https://github.com/fairlearn/fairlearn) Python package and understanding the challenges data scientists face when incorporating fairness and responsible AI practices in their workflow. Before that, I was at J.P. Morgan Chase where I worked on explainable AI for finance.
 
 <!--
 **LeJit/LeJit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
